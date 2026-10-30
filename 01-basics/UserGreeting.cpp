@@ -1,8 +1,8 @@
 /**
  * @file user_greeting.cpp
- * @brief Simple C++ program that prompts the user for their name and prints a greeting.
- * @author Carolina / @YourGitHubUsername
- * @date 2026-10-28
+ * @brief Simple C++ program 
+ * @author Carolina 
+ * @date 2026-10-29
  */
 
 #include <iostream>
